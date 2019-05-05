@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/practice-simple-count-react-redux-app/static/js/main.754b12b7.chunk.js",
+    "main.js.map": "/practice-simple-count-react-redux-app/static/js/main.754b12b7.chunk.js.map",
+    "runtime~main.js": "/practice-simple-count-react-redux-app/static/js/runtime~main.8bd60dcd.js",
+    "runtime~main.js.map": "/practice-simple-count-react-redux-app/static/js/runtime~main.8bd60dcd.js.map",
+    "static/js/2.8ff92d86.chunk.js": "/practice-simple-count-react-redux-app/static/js/2.8ff92d86.chunk.js",
+    "static/js/2.8ff92d86.chunk.js.map": "/practice-simple-count-react-redux-app/static/js/2.8ff92d86.chunk.js.map",
+    "index.html": "/practice-simple-count-react-redux-app/index.html",
+    "precache-manifest.de40f410953f6a5183d1bd370dbdfbdf.js": "/practice-simple-count-react-redux-app/precache-manifest.de40f410953f6a5183d1bd370dbdfbdf.js",
+    "service-worker.js": "/practice-simple-count-react-redux-app/service-worker.js"
+  }
+}
